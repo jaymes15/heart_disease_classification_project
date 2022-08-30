@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "/Users/oluwatomisinjames/Ml-course/heart_disease_project/.env/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
